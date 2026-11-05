@@ -1,5 +1,8 @@
 # 照片查重工具（图形界面 EXE 版）
 
+> **↓ 快速下载**：[photo-dedupe.exe](https://github.com/gaoyan1984/photo-dedupe-exe/releases/download/v1.0/photo-dedupe.exe) —— 单文件，双击即用，无需安装 Python。
+
+
 这是 [photo-dedupe](https://github.com/gaoyan1984/photo-dedupe) 的**打包成品**：一个 Windows 下双击即用的图形界面照片查重工具，**无需安装 Python**。
 
 ## 下载
